@@ -10,3 +10,6 @@ nvm use
 npm install
 node index.js
 ```
+
+Take a look at the file [index.js](./index.js) to see how to use the QAnswer APIs.
+
