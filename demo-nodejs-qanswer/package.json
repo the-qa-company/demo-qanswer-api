@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@the-qa-company/qanswer-client": "3.309.0",
+    "form-data": "^4.0.0"
+  }
+}
